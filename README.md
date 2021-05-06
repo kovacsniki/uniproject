@@ -1,0 +1,1 @@
+-előre, hátra, oldalra mozgás: ASDW -fel, le mozgás: space, C -kutya és cica esetén, ha közel vagyunk az M billentyűvel mozgathatjuk őket -fény: +-
